@@ -1,5 +1,5 @@
 ## Borpheus
-Borpheus Is A Multi Cyber-Security Tool (Scanning, Payload Building, Exploiting).
+Borpheus Is A Multi Cyber-Security Tool (Scanning, Injecting, Payload Building, Exploiting).
 
 ## How To Buy?
 * To Buy Borpheus, DM Me On Discord ==> ASM_Royal#9532
