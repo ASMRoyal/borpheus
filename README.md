@@ -2,7 +2,7 @@
 * *Borpheus Is A Multi Cyber-Security Tool (Scanning, Injecting, Cracking, Payload Building, Exploiting, etc...).*
 
 ## How To Buy?
-* To Buy Borpheus, DM Me On Discord ==> ASM_Royal#6666
+* To Buy Borpheus, DM Me On Discord ==> 0xyz
 *   Or Join My Discord ==> https://discord.gg/6ZygegCkPF
 
 ## Borpheus Main Hub
