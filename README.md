@@ -5,9 +5,12 @@
 * To Buy Borpheus, DM Me On Discord ==> 0xyz
 *   Or Join My Discord ==> https://discord.gg/6ZygegCkPF
 
-## Borpheus Main Hub
+## Borpheus Showcase
 
 ![image](https://user-images.githubusercontent.com/89786570/178143743-48df3eb1-dabe-4a2b-9f73-d928821a0cbb.png)
+
+![image](https://github.com/ASMRoyal/borpheus/assets/89786570/23e79bcf-618e-411d-af86-865b2f36983c)
+
 
 ## Price List
 
